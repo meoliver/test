@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"为了测试github 上传文件试试。可以忽略");
 }
 
 - (void)didReceiveMemoryWarning {
